@@ -7,9 +7,9 @@
 <h3 align="center">Web3 Smart Contract Security Researcher</h3>
 
 <p align="center">
-  I hunt high-impact vulnerabilities in DeFi protocols — DEX/AMM, lending markets, cross-chain infrastructure,
-  ERC-4626 vaults and staking systems — through <b>competitive audits</b> (Code4rena · Sherlock · Cantina)
-  and <b>private engagements</b>.
+  I hunt high-impact vulnerabilities in DeFi protocols — DEX/AMM, lending markets, ERC-4626 vaults,
+  stablecoins &amp; CDPs, and staking / reward systems — through competitive audits on
+  <b>Code4rena</b>, <b>Sherlock</b> and <b>Cantina</b>.
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 | :------- | :------: | :------------: | :------------: |
 | Code4rena | $515.16 | 1 High · 3 Medium | 🥉 **#3** — Monetrix |
 | Sherlock | $188.18 | 1 Low | #93 — XRP Ledger (Apr 2026) |
-| Cantina | $529.87 | 1 High · 4 Medium | #12 / 269 — Revert Finance |
+| Cantina | $529.87 | 1 High · 4 Medium | #12 / 773 — Revert Finance |
 
 **$1,233+** total public earnings · **2 High · 7 Medium · 1 Low** valid findings ·
 🥉 podium + 2× top-10 finishes on Code4rena (Monetrix #3, SukukFi #8) · 4 of my last 5 competitive audits finished **#12 or better** 🚀
@@ -68,18 +68,30 @@
 
 | Contest | Date | Ranking | High | Medium | Reward |
 | :------ | :--- | :-----: | :--: | :----: | :-----: |
-| [Revert Finance - StableSwap Hooks](https://cantina.xyz/competitions/e55ee7b9-6c99-42f8-8338-39f3dd134ef3) | Apr–May 2026 | #12 / 269 | 1 | 4 | **$529.87** |
+| [Revert Finance - StableSwap Hooks](https://cantina.xyz/competitions/e55ee7b9-6c99-42f8-8338-39f3dd134ef3) | Apr–May 2026 | #12 / 773 | 1 | 4 | **$529.87** |
 
-> 🛠️ *CodeHawks / Immunefi / private & institutional audits — added here as they happen (NDA permitting).*
 
 ---
 
 ## 🛠️ What I do & how
 
-**Focus areas**
-- DeFi protocol logic: DEX & AMMs, lending & borrowing, oracles, cross-chain bridges & messaging, ERC-4626 vaults, staking & rewards, tokenomics edge cases
-- High/medium severity issues, economic attacks, access-control & upgradeability flaws
-- Solidity (and adjacent EVM toolchains)
+**Focus areas** — shaped by the scopes I have actually reviewed
+
+- **DEX / AMM** — incl. stable-swap designs
+- **Stablecoins & CDP** — collateral & backing accounting, borrow liabilities, redeemability
+- **Lending markets**
+- **ERC-4626 vaults** & tokenized / RWA asset protocols
+- **Staking & reward distribution**
+
+**Representative scope highlights**
+
+- Hyperliquid-yield-backed **stablecoin** collateralization & borrow/backing accounting — [Monetrix](https://code4rena.com/audits/2026-04-monetrix)
+- USD-pegged **stablecoin** with ERC-4626 vault & mint/redeem/rewards logic — [DRE App - dreUSD](https://audits.sherlock.xyz/contests/1259)
+- **Stable-swap AMM** hooks — [Revert Finance - StableSwap Hooks](https://cantina.xyz/competitions/e55ee7b9-6c99-42f8-8338-39f3dd134ef3)
+- RWA **debt-instrument vaults** (profit-sharing) — [SukukFi](https://code4rena.com/audits/2025-11-sukukfi)
+- Cross-chain **payment abstraction** — [Chainlink Payment Abstraction V2](https://code4rena.com/audits/2026-03-chainlink-payment-abstraction-v2)
+- Options-protocol infrastructure & wallet access control — [Panoptic: Next Core](https://code4rena.com/audits/2025-12-panoptic-next-core)
+- DLT (non-EVM) amendments — [XRP Ledger](https://audits.sherlock.xyz/contests/1260)
 
 **Tooling**
 - Manual review + invariants & economic reasoning
@@ -93,6 +105,7 @@
 Looking for a thorough audit of your protocol, or want to chat security?
 
 - **X / Twitter:** [@0x0xCheng](https://x.com/0x0xCheng) — fastest way to reach me
+- **Email:** [Chengxinjie3@outlook.com](mailto:Chengxinjie3@outlook.com)
 - **Code4rena:** [cheng9061](https://code4rena.com/@cheng9061)
 - **Sherlock:** [cheng](https://audits.sherlock.xyz/watson/cheng)
 - **Cantina:** [Cheng](https://cantina.xyz/u/Cheng)
