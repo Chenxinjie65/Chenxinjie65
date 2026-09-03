@@ -31,9 +31,6 @@
 | Sherlock | $188.18 | 1 Low | #93 — XRP Ledger (Apr 2026) |
 | Cantina | $529.87 | 1 High · 4 Medium | #12 / 773 — Revert Finance |
 
-**$1,233+** total public earnings · **2 High · 7 Medium · 1 Low** valid findings ·
-🥉 podium + 2× top-10 finishes on Code4rena (Monetrix #3, SukukFi #8) · 4 of my last 5 competitive audits finished **#12 or better** 🚀
-
 ---
 
 ## 🏆 Highlights
@@ -42,7 +39,6 @@
 - 💪 **8th place** — [SukukFi](https://code4rena.com/audits/2025-11-sukukfi) (Code4rena) — 1 Medium
 - 💪 **11th place** — [Chainlink Payment Abstraction V2](https://code4rena.com/audits/2026-03-chainlink-payment-abstraction-v2) (Code4rena) — 1 Medium
 - 💪 **12th / 269** — [Revert Finance - StableSwap Hooks](https://cantina.xyz/competitions/e55ee7b9-6c99-42f8-8338-39f3dd134ef3) (Cantina) — 1 High · 4 Medium
-- ⚔️ Audited a **$519k-pool XRP Ledger** contest and a **$50k Cantina** competition in 2026
 
 ---
 
@@ -73,9 +69,9 @@
 
 ---
 
-## 🛠️ What I do & how
+## 🛠️ What I do
 
-**Focus areas** — shaped by the scopes I have actually reviewed
+**Focus areas**
 
 - **DEX / AMM** — incl. stable-swap designs
 - **Stablecoins & CDP** — collateral & backing accounting, borrow liabilities, redeemability
@@ -87,16 +83,10 @@
 
 - Hyperliquid-yield-backed **stablecoin** collateralization & borrow/backing accounting — [Monetrix](https://code4rena.com/audits/2026-04-monetrix)
 - USD-pegged **stablecoin** with ERC-4626 vault & mint/redeem/rewards logic — [DRE App - dreUSD](https://audits.sherlock.xyz/contests/1259)
-- **Stable-swap AMM** hooks — [Revert Finance - StableSwap Hooks](https://cantina.xyz/competitions/e55ee7b9-6c99-42f8-8338-39f3dd134ef3)
+- **Uniswap v4** hooks — [Revert Finance - StableSwap Hooks](https://cantina.xyz/competitions/e55ee7b9-6c99-42f8-8338-39f3dd134ef3)
 - RWA **debt-instrument vaults** (profit-sharing) — [SukukFi](https://code4rena.com/audits/2025-11-sukukfi)
 - Cross-chain **payment abstraction** — [Chainlink Payment Abstraction V2](https://code4rena.com/audits/2026-03-chainlink-payment-abstraction-v2)
-- Options-protocol infrastructure & wallet access control — [Panoptic: Next Core](https://code4rena.com/audits/2025-12-panoptic-next-core)
-- DLT (non-EVM) amendments — [XRP Ledger](https://audits.sherlock.xyz/contests/1260)
-
-**Tooling**
-- Manual review + invariants & economic reasoning
-- Foundry (fuzzing & invariant testing), Echidna / Medusa, Slither, Halmos
-- PoC-driven write-ups with clear impact & fix recommendations
+- DLT — [XRP Ledger](https://audits.sherlock.xyz/contests/1260)
 
 ---
 
@@ -106,13 +96,9 @@ Looking for a thorough audit of your protocol, or want to chat security?
 
 - **X / Twitter:** [@0x0xCheng](https://x.com/0x0xCheng) — fastest way to reach me
 - **Email:** [Chengxinjie3@outlook.com](mailto:Chengxinjie3@outlook.com)
-- **Code4rena:** [cheng9061](https://code4rena.com/@cheng9061)
-- **Sherlock:** [cheng](https://audits.sherlock.xyz/watson/cheng)
-- **Cantina:** [Cheng](https://cantina.xyz/u/Cheng)
-- **GitHub:** [Chenxinjie65](https://github.com/Chenxinjie65)
 
 ---
 
 <p align="center">
-  <i>Data above mirrors my public platform profiles and is kept up to date.<br/>Last updated: September 2026 · Built with ☕ and too many 🐛</i>
+  <i>Data above mirrors my public platform profiles and is kept up to date.<br/>Last updated: September 2026</i>
 </p>
