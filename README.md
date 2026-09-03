@@ -38,7 +38,7 @@
 - 🥉 **3rd place** — [Monetrix](https://code4rena.com/audits/2026-04-monetrix) (Code4rena) — 1 Medium
 - 💪 **8th place** — [SukukFi](https://code4rena.com/audits/2025-11-sukukfi) (Code4rena) — 1 Medium
 - 💪 **11th place** — [Chainlink Payment Abstraction V2](https://code4rena.com/audits/2026-03-chainlink-payment-abstraction-v2) (Code4rena) — 1 Medium
-- 💪 **12th / 269** — [Revert Finance - StableSwap Hooks](https://cantina.xyz/competitions/e55ee7b9-6c99-42f8-8338-39f3dd134ef3) (Cantina) — 1 High · 4 Medium
+- 💪 **12th / 773** — [Revert Finance - StableSwap Hooks](https://cantina.xyz/competitions/e55ee7b9-6c99-42f8-8338-39f3dd134ef3) (Cantina) — 1 High · 4 Medium
 
 ---
 
@@ -73,9 +73,9 @@
 
 **Focus areas**
 
-- **DEX / AMM** — incl. stable-swap designs
+- **DEX / AMM** — incl. stable-swap designs & CLAMM
 - **Stablecoins & CDP** — collateral & backing accounting, borrow liabilities, redeemability
-- **Lending markets**
+- **Lending markets** — incl. liquidation, interest, price-oracle manipulation, etc.
 - **ERC-4626 vaults** & tokenized / RWA asset protocols
 - **Staking & reward distribution**
 
